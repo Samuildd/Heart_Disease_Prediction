@@ -1,7 +1,7 @@
 # Heart_Disease_Prediction
 This was a project completed with my peers for a university course.
 
-The main goal of this project was to investigate if it is possible to build a reliable machine learning model that can predict a patients 10 year risk of developing Coronary Heart Disease(CHD) using a heart disease dataset. We used a publicly available heart disease dataset that contains a variety of clinical and demographic features relevant to cardiovascular health .3 algorithms were explored, they were also compared and contrasted to identify the best algorithm fit for this use case and a real world settings. The 3 algorithms were **Logistic Regression**, **K Nearest Neighbours** and **KMeans**.
+The main goal of this project was to investigate if it is possible to build a reliable machine learning model that can predict a patients 10 year risk of developing Coronary Heart Disease(CHD) using a heart disease dataset. We used a publicly available heart disease dataset that contains a variety of clinical and demographic features relevant to cardiovascular health. 3 algorithms were explored, they were also compared and contrasted to identify the best algorithm fit for this use case and a real world settings. The 3 algorithms were **Logistic Regression**, **K Nearest Neighbours** and **KMeans**.
 
 Heart Disease Dataset Features:
 * Gender
